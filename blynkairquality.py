@@ -10,7 +10,7 @@ SMUART-04L sensor and send to Blynk app
 Pinout:
 ______________________________________________
 ____PIN_____|___RASPBERRY PI____|___SENSOR____
-    5V      |   1               |   1 and/or 2
+    5V      |   2               |   1 and/or 2
     GND     |   6               |   3 and/or 4
     TX      |   8               |   7 (RX)
     RX      |   10              |   9 (TX)
